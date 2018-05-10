@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity/activity.iml" filepath="$PROJECT_DIR$/activity/activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarmmanager1/alarmmanager1.iml" filepath="$PROJECT_DIR$/alarmmanager1/alarmmanager1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarmmanager2/alarmmanager2.iml" filepath="$PROJECT_DIR$/alarmmanager2/alarmmanager2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarmmanager3/alarmmanager3.iml" filepath="$PROJECT_DIR$/alarmmanager3/alarmmanager3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarmmanager4_succeed/alarmmanager4_succeed.iml" filepath="$PROJECT_DIR$/alarmmanager4_succeed/alarmmanager4_succeed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarmmanager5/alarmmanager5.iml" filepath="$PROJECT_DIR$/alarmmanager5/alarmmanager5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clock2/clock2.iml" filepath="$PROJECT_DIR$/clock2/clock2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clock3/clock3.iml" filepath="$PROJECT_DIR$/clock3/clock3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clock4_bee/clock4_bee.iml" filepath="$PROJECT_DIR$/clock4_bee/clock4_bee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clock6/clock6.iml" filepath="$PROJECT_DIR$/clock6/clock6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clocksimple/clocksimple.iml" filepath="$PROJECT_DIR$/clocksimple/clocksimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clocksimple2/clocksimple2.iml" filepath="$PROJECT_DIR$/clocksimple2/clocksimple2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clocksimple3/clocksimple3.iml" filepath="$PROJECT_DIR$/clocksimple3/clocksimple3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daohanglan/daohanglan.iml" filepath="$PROJECT_DIR$/daohanglan/daohanglan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datadialogtimedialog1/datadialogtimedialog1.iml" filepath="$PROJECT_DIR$/datadialogtimedialog1/datadialogtimedialog1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datapicker1/datapicker1.iml" filepath="$PROJECT_DIR$/datapicker1/datapicker1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datapicker2succeed/datapicker2succeed.iml" filepath="$PROJECT_DIR$/datapicker2succeed/datapicker2succeed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datapicker3/datapicker3.iml" filepath="$PROJECT_DIR$/datapicker3/datapicker3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datapicker4/datapicker4.iml" filepath="$PROJECT_DIR$/datapicker4/datapicker4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent1/intent1.iml" filepath="$PROJECT_DIR$/intent1/intent1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent2/intent2.iml" filepath="$PROJECT_DIR$/intent2/intent2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent3/intent3.iml" filepath="$PROJECT_DIR$/intent3/intent3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lw1/lw1.iml" filepath="$PROJECT_DIR$/lw1/lw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lw2/lw2.iml" filepath="$PROJECT_DIR$/lw2/lw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lw3/lw3.iml" filepath="$PROJECT_DIR$/lw3/lw3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylady1/mylady1.iml" filepath="$PROJECT_DIR$/mylady1/mylady1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylady2/mylady2.iml" filepath="$PROJECT_DIR$/mylady2/mylady2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendtozuzhong/sendtozuzhong.iml" filepath="$PROJECT_DIR$/sendtozuzhong/sendtozuzhong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server3/server3.iml" filepath="$PROJECT_DIR$/server3/server3.iml" />
+      <module fileurl="file://E:\AndroidProjects\Test\service1_succeed\service1.iml" filepath="E:\AndroidProjects\Test\service1_succeed\service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service1_succeed/service1_succeed.iml" filepath="$PROJECT_DIR$/service1_succeed/service1_succeed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service2/service2.iml" filepath="$PROJECT_DIR$/service2/service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timepicker1/timepicker1.iml" filepath="$PROJECT_DIR$/timepicker1/timepicker1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjj1/wjj1.iml" filepath="$PROJECT_DIR$/wjj1/wjj1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjj2/wjj2.iml" filepath="$PROJECT_DIR$/wjj2/wjj2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjj3fragemt/wjj3fragemt.iml" filepath="$PROJECT_DIR$/wjj3fragemt/wjj3fragemt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjj4/wjj4.iml" filepath="$PROJECT_DIR$/wjj4/wjj4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjj5/wjj5.iml" filepath="$PROJECT_DIR$/wjj5/wjj5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjj6/wjj6.iml" filepath="$PROJECT_DIR$/wjj6/wjj6.iml" />
+    </modules>
+  </component>
+</project>

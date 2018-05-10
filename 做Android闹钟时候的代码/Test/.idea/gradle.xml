@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity" />
+            <option value="$PROJECT_DIR$/alarmmanager1" />
+            <option value="$PROJECT_DIR$/alarmmanager2" />
+            <option value="$PROJECT_DIR$/alarmmanager3" />
+            <option value="$PROJECT_DIR$/alarmmanager4_succeed" />
+            <option value="$PROJECT_DIR$/alarmmanager5" />
+            <option value="$PROJECT_DIR$/clock2" />
+            <option value="$PROJECT_DIR$/clock3" />
+            <option value="$PROJECT_DIR$/clock4_bee" />
+            <option value="$PROJECT_DIR$/clock6" />
+            <option value="$PROJECT_DIR$/clocksimple" />
+            <option value="$PROJECT_DIR$/clocksimple2" />
+            <option value="$PROJECT_DIR$/clocksimple3" />
+            <option value="$PROJECT_DIR$/daohanglan" />
+            <option value="$PROJECT_DIR$/datadialogtimedialog1" />
+            <option value="$PROJECT_DIR$/datapicker1" />
+            <option value="$PROJECT_DIR$/datapicker2succeed" />
+            <option value="$PROJECT_DIR$/datapicker3" />
+            <option value="$PROJECT_DIR$/datapicker4" />
+            <option value="$PROJECT_DIR$/intent1" />
+            <option value="$PROJECT_DIR$/intent2" />
+            <option value="$PROJECT_DIR$/intent3" />
+            <option value="$PROJECT_DIR$/lw1" />
+            <option value="$PROJECT_DIR$/lw2" />
+            <option value="$PROJECT_DIR$/lw3" />
+            <option value="$PROJECT_DIR$/mylady1" />
+            <option value="$PROJECT_DIR$/mylady2" />
+            <option value="$PROJECT_DIR$/sendtozuzhong" />
+            <option value="$PROJECT_DIR$/server3" />
+            <option value="$PROJECT_DIR$/service1_succeed" />
+            <option value="$PROJECT_DIR$/service2" />
+            <option value="$PROJECT_DIR$/timepicker1" />
+            <option value="$PROJECT_DIR$/wjj1" />
+            <option value="$PROJECT_DIR$/wjj2" />
+            <option value="$PROJECT_DIR$/wjj3fragemt" />
+            <option value="$PROJECT_DIR$/wjj4" />
+            <option value="$PROJECT_DIR$/wjj5" />
+            <option value="$PROJECT_DIR$/wjj6" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

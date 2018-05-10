@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.clocksimple3.MainActivity">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/myViewPager"
+        android:layout_width="377dp"
+        android:layout_height="528dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.444"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.515">
+
+    </android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <LinearLayout
+            android:layout_width="66dp"
+            android:layout_height="47dp"
+            android:orientation="vertical"
+            android:layout_weight="1">
+            <ImageView
+                android:id="@+id/image_homepage"
+                android:layout_width="50sp"
+                android:layout_height="30sp"
+                android:layout_gravity="center_horizontal"
+                android:src="@mipmap/home_red" />
+
+            <TextView
+                android:id="@+id/textView_home"
+                android:layout_width="50sp"
+                android:layout_height="30dp"
+                android:text="   首页"
+                android:layout_gravity="center_horizontal"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="66dp"
+            android:layout_height="47dp"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            >
+
+            <ImageView
+                android:id="@+id/image_manage"
+                android:layout_width="50sp"
+                android:layout_height="30sp"
+                android:layout_gravity="center_horizontal"
+                android:src="@mipmap/managered" />
+
+            <TextView
+                android:id="@+id/textView_manage"
+                android:layout_width="48dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:text="   设置" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="66dp"
+            android:layout_height="47dp"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            >
+            <ImageView
+                android:id="@+id/image_settime"
+                android:layout_width="50sp"
+                android:layout_height="30sp"
+                android:layout_gravity="center_horizontal"
+                android:src="@mipmap/jiahaored" />
+
+            <TextView
+                android:id="@+id/textView_settime"
+                android:layout_width="48dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:text="   时间" />
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
